@@ -6,3 +6,11 @@ Impaired thermoregulatory function is a clinical feature of many health conditio
 ## Replicate the Analysis
 The results and figures that support the conclusions of the study can be replicated using using the R packages `dplyr`, `janitor`, `ggplot2`, `lubridate`, `tidyr`, `naniar`, `visdat`
 `readxl`, `stringr`, `modelr`, `emmeans`, `patchwork`, `misty`, `mice`, `knitr`, `splines`, `brms`, `tidybayes`, and `bayesplot`, and the data files and code stored in this repository.
+
+## DOI
+[![DOI](https://zenodo.org/badge/625715931.svg)](https://doi.org/10.5281/zenodo.10774736)
+
+## Analytics
+[![Github All Releases](https://img.shields.io/github/downloads/SciBorgo/paratriathlon_heat/total.svg)]()
+
+
